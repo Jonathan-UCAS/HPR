@@ -64,19 +64,20 @@ If you find our work insightful or useful, please consider citing:
 @article{HPR,
 title = {Hyperbolic Prototype Rectification for Few-Shot 3D Point Clouds},
 journal = {Pattern Recognition},
-volume = {159},
+volume = {?},
 pages = {111042},
 year = {2025},
 author = {
     Yuan-Zhi Feng and Shing-Ho Lin and Xuan Tang and Mu-Yu Wang and Jian-Zhang Zheng and 
     Zi-Yao He and Zi-Yi Pang and Jian Yang and Ming-Song Chen and Xian Wei
 },
-doi = {10.1016/j.patcog.2024.111042}
+doi = {10.1016/j.patcog.2024.111042},
 keywords = {
     Hyperbolic Geometry, Few-shot Learning, Point Cloud Classification, 
-    Prototype Rectification, Feature Enhancement}
+    Prototype Rectification, Feature Enhancement
+}
 }
 ```
 
 ## Contact
-Should you have any question about this work, please feel free to contact me (Shing-Ho J. Lin) via: linchenghao21@mails.ucas.ac.cn
+Should you have any questions about this work, please feel free to contact me (Shing-Ho J. Lin) via: linchenghao21@mails.ucas.ac.cn
