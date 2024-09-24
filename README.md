@@ -2,6 +2,12 @@
 
 ![](images/arch.png "Overview of our HPR model.")
 
+## Temporary Notes (2024.09.25)
+
+* This is a preview version of our code, not the final version. The current version isn't named very well for fs_head, We are trying to reorganize the names to increase readability. 
+
+* If schedules are met, The final version will be completed within a week.
+
 ## Introduction
 
 This repository includes the PyTorch implementation for our paper 
