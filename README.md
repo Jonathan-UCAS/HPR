@@ -54,7 +54,6 @@ python main.py --train False
 ```
 
 ## Acknowledgements
-This work is supported by Beijing Natural Science Foundation (Qiyan Project), project lead is Shing-Ho Lin. 
 
 Part of the code is borrowed from [**Cross-Modality Feature Fusion Network**](https://github.com/LexieYang/Cross-Modality-Feature-Fusion-Network), thanks to their great work!
 
