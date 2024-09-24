@@ -14,16 +14,16 @@ from backbone.point_base import point_backbone, DGCNN, Ori_DGCNN, Hyper_DGCNN
 
 
 # ======== fs algorithm =========
-from fs_module.CIA import CIA
-from fs_module.MetaOpt import MetaOpt
-from fs_module.RelationNet import RelationNetwork
-from fs_module.crossAtt_mixmodel import crossAtt_mixmodel
-from fs_module.ProtoNet import ProtoNet
-from fs_module.PR_N import PR_N
+from .model.fs_module.CIA import CIA
+from .model.fs_module.MetaOpt import MetaOpt
+from .model.fs_module.RelationNet import RelationNetwork
+from .model.fs_module.crossAtt_mixmodel import crossAtt_mixmodel
+from .model.fs_module.ProtoNet import ProtoNet
+from .model.fs_module.PR_N import PR_N
 # the main methods we proposed: HPR-D, HPR-WN and Top-K HPR-WN
-from fs_module.HPR_D import HPR_D
-from fs_module.HPR_WN import HPR_WN
-from fs_module.HPR_WN_Top_K import HPR_WN_Top_K
+from .model.fs_module.HPR_D import HPR_D
+from .model.fs_module.HPR_WN import HPR_WN
+from .model.fs_module.HPR_WN_Top_K import HPR_WN_Top_K
 # ===============================
 from util.utils import init_weights
 
@@ -36,7 +36,7 @@ class fs_network(nn.Module):
         self.query = query
         self.label = None
         self.backbone = backbone
-        if backbone in ['dgcnn']:
+        if backbone in 'dgcnn':
             self.pointbb = self.get_backbone(backbone)
         elif backbone in 'dgcnn_normal':
             self.pointbb = self.get_backbone(backbone)
