@@ -1,6 +1,6 @@
 # Hyperbolic Prototype Rectification for Few-Shot 3D Point Clouds
 
-![](https://github.com/Jonathan-UCAS/HPR/master/images/arch.png "Overview of our HPR model.")
+![](images/arch.png "Overview of our HPR model.")
 
 ## Introduction
 
