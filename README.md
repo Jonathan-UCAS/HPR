@@ -4,9 +4,9 @@
 
 ## Temporary Notes (2024.09.25)
 
-* This is a preview version of our code, not the final version. The current version isn't named very well for fs_head, We are trying to reorganize the names to increase readability. 
+* This is a preview version of our code, not the final version. The current version isn't named very well for fs_head. We are trying to reorganize the names to increase readability. 
 
-* If schedules are met, The final version will be completed within a week.
+* If schedules are met, The final version will be completed within a week (before Oct.1).
 
 ## Introduction
 
@@ -75,13 +75,11 @@ pages = {111042},
 year = {2025},
 author = {
     Yuan-Zhi Feng and Shing-Ho Lin and Xuan Tang and Mu-Yu Wang and Jian-Zhang Zheng and 
-    Zi-Yao He and Zi-Yi Pang and Jian Yang and Ming-Song Chen and Xian Wei
-},
+    Zi-Yao He and Zi-Yi Pang and Jian Yang and Ming-Song Chen and Xian Wei},
 doi = {10.1016/j.patcog.2024.111042},
 keywords = {
     Hyperbolic Geometry, Few-shot Learning, Point Cloud Classification, 
-    Prototype Rectification, Feature Enhancement
-}
+    Prototype Rectification, Feature Enhancement}
 }
 ```
 
