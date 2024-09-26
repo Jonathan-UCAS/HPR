@@ -1,4 +1,4 @@
-# Hyperbolic Prototype Rectification for Few-Shot 3D Point Clouds
+# Hyperbolic Prototype Rectification for Few-Shot 3D Point Cloud Classification
 
 ![](images/arch.png "Overview of our HPR model.")
 
@@ -68,7 +68,7 @@ Part of the code is borrowed from [**Cross-Modality Feature Fusion Network**](ht
 If you find our work insightful or useful, please consider citing:
 ```
 @article{HPR,
-title = {Hyperbolic Prototype Rectification for Few-Shot 3D Point Clouds},
+title = {Hyperbolic Prototype Rectification for Few-Shot 3D Point Cloud Classification},
 journal = {Pattern Recognition},
 volume = {?},
 pages = {111042},
