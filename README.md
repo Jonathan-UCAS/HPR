@@ -14,6 +14,10 @@ This repository includes the PyTorch implementation for our paper
 "[**Hyperbolic Prototype Rectification for Few-Shot 3D Point Clouds**](https://doi.org/10.1016/j.patcog.2024.111042)" 
 accepted by [**Pattern Recognition**](https://www.sciencedirect.com/journal/pattern-recognition).
 
+[2024.09.28] Final Version Online!
+
+[2024.09.20] Accepted by Pattern Recognition!
+
 ## Installation
 
 This project is built upon the following environment:
@@ -70,7 +74,7 @@ If you find our work insightful or useful, please consider citing:
 @article{HPR,
 title = {Hyperbolic Prototype Rectification for Few-Shot 3D Point Cloud Classification},
 journal = {Pattern Recognition},
-volume = {?},
+volume = {158},
 pages = {111042},
 year = {2025},
 author = {
