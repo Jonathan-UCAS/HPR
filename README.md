@@ -78,7 +78,7 @@ volume = {158},
 pages = {111042},
 year = {2025},
 author = {
-    Yuan-Zhi Feng and Shing-Ho Lin and Xuan Tang and Mu-Yu Wang and Jian-Zhang Zheng and 
+    Yuan-Zhi Feng and Shing-Ho J. Lin and Xuan Tang and Mu-Yu Wang and Jian-Zhang Zheng and 
     Zi-Yao He and Zi-Yi Pang and Jian Yang and Ming-Song Chen and Xian Wei},
 doi = {10.1016/j.patcog.2024.111042},
 keywords = {
