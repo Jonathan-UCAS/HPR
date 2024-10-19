@@ -19,9 +19,9 @@ This project is built upon the following environment:
 * CUDA 11.1
 * PyTorch 1.10.2
 
-We also tested on: 
+We also tested on RTX4060 and RTX4090 using following environment: 
 * Python 3.11
-* CUDA 12.4
+* CUDA 11.8
 * PyTorch 2.1
 
 Therefore, it should be able to run on any settings in-between. 
